@@ -9,11 +9,17 @@ csharp
 using System;
 
 namespace SheCodesNicole
+
 {
+
     class Program
+    
     {
+    
         static void Main(string[] args)
+        
         {
+        
             string name = "Nicole";
             string pronouns = "She/Her";
             string tech = "C# | ASP.NET Core | SQL";
