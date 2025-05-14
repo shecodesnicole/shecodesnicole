@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi there! I'm so glad you visited my GitHub profile🙂‍↔️🙂‍↕️
 
-<!--
-**shecodesnicole/shecodesnicole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here, you’ll find my personal projects, learning journey, and open-source contributions.  
+Let’s connect, share ideas, and grow together! 🚀
 
-Here are some ideas to get you started:
+### 💻 A Bit of C# Code to Say Hello
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+csharp
+using System;
+
+namespace SheCodesNicole
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string name = "Nicole";
+            string pronouns = "She/Her";
+            string tech = "C# | ASP.NET Core | SQL";
+
+            Console.WriteLine("👋 Hello and Welcome to My GitHub!");
+            Console.WriteLine($"I'm {name} ({pronouns}) – an aspiring Back-End Developer.");
+            Console.WriteLine($"Currently working with: {tech}");
+            Console.WriteLine("Glad you're here! 💻✨");
+        }
+    }
+} 
